@@ -5,4 +5,4 @@ export pythonpid=$!
 
 sudo nodejs snapapprover/app.js > snapapprovelog.log 2>&1 &
 
-export nodepid=$!
+export nodepid=$!joelie.thomas0716@icloud.comjoelie.thomas0716@icloud.co
